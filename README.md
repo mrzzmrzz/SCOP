@@ -12,7 +12,7 @@
 2. GO-BP: A dataset related to the biological process (BP) terms of a protein, representing a specific objective that the organism is genetically programmed to achieve. *You can download this dataset clicking the [website](https://zenodo.org/record/6622158/files/GeneOntology.zip)*.
 3. GO-MF: A dataset about the protein's molecular functions (MF), which correspond to activities that can be performed by individual gene products. *You can download this dataset clicking the [website](https://zenodo.org/record/6622158/files/GeneOntology.zip)*
 4. GO-CC: A dataset with the cellular component (CC) terms of a protein, referring to the locations about cellular structures where a gene product performs a function. *You can download this dataset clicking the [website](https://zenodo.org/record/6622158/files/GeneOntology.zip)*
-5. Glycoprotein Dataset (self-built dataset used in Section 6 `Case Study`): *You can find this dataset in  the folder `datasets`*
+5. Glycoprotein Dataset (self-built dataset used in `Case Study`): *You can find this dataset in  the folder `datasets`*
 
 
 ## Requirements
