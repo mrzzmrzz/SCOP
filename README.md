@@ -38,3 +38,18 @@ torchdrug==0.2.0
 3. Evaluate the pretrained structure model on benchmark datasets.
     - Transform the downloaded dataset to the `NetworkX` format.
     - Run the file `src\pipeline.py` to evaluate the model on downstream tasks.
+
+## Cite
+If you feel this work helpful for your research, please cite the following papers:
+```
+@inproceedings{ma2024scop,
+  author={Ma, Runze and He, Chengxin and Zheng, Huiru and Wang, Xinye and Wang, Haiying and Zhang, Yidan and Duan, Lei},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={SCOP: A Sequence-Structure Contrast-Aware Framework for Protein Function Prediction}, 
+  year={2024},
+  pages={79-84},
+  doi={10.1109/BIBM62325.2024.10822541}
+}
+```
+
+
